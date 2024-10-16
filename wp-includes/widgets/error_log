@@ -1,0 +1,4 @@
+[13-Aug-2023 08:54:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moneyhus/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moneyhus/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,1 @@
+(function($){wp.customize('generate_copyright',function(value){value.bind(function(newval){if($('.copyright-bar').length){$('.copyright-bar').html(newval);}else{$('.inside-site-info').html(newval);}});});}(jQuery));
